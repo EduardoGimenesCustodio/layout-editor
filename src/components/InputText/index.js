@@ -13,7 +13,6 @@ const InputText = () => {
 	}));
 
 	const { isDragging } = collected;
-	console.log(collected);
 	const readonly = isDragging ? false : true;
 
 	return (
