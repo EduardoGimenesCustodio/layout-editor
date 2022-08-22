@@ -5,3 +5,17 @@
 	text-decoration: none;
 	box-sizing: border-box;
 }
+
+.mainContent {
+	display: flex;
+	width: 100%;
+}
+
+.editingArea {
+	width: 80%;
+}
+
+.menuArea {
+	width: 20%;
+	padding: 1%;
+}

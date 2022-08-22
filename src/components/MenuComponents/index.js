@@ -1,10 +1,11 @@
 import React from "react";
+import InputText from "../InputText";
 
 import "./styles.css";
 
 const MenuComponents = () => (
 	<div className="menuComponents">
-		<h1></h1>
+		<InputText />
 	</div>
 );
 

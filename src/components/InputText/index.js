@@ -4,7 +4,7 @@ import "./styles.css";
 
 const InputText = () => (
 	<div className="inputText">
-		<input></input>
+		<input type="text" />
 	</div>
 );
 
