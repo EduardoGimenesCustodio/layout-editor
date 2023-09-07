@@ -1,6 +1,6 @@
 ## Description
 
-Website where you can build dynamic layouts.
+Website that allows the construction of dynamic layouts.
 
 ## Installation
 
